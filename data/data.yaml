@@ -1,0 +1,13 @@
+train: C:\\Users\\Pradeep Kumar\\Documents\\IEEE\\FBG_YOLO\\lab\\train\\images
+val: C:\\Users\\Pradeep Kumar\\Documents\\IEEE\\FBG_YOLO\\lab\\validation\\images
+test: C:\\Users\\Pradeep Kumar\\Documents\\IEEE\\FBG_YOLO\\lab\\test\\images
+
+nc: 8
+names: ['Case 1', 'Case 2', 'Case 3','Case 4','Case 5', 'Case 6', 'Case 7','Case 8']
+
+roboflow:
+  workspace: ntut-zy5y0
+  project: weapon-detection-yfvuq
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ntut-zy5y0/weapon-detection-yfvuq/dataset/3
